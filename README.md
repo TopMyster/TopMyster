@@ -5,5 +5,6 @@
 
 ![TopMyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topmyster)
 
-###### <small> I made this account in Sept 2024 so please excuse the bad score </small>
+#### <b><h2>Languages & Frameworks</h2></b>
+#### HTML  •  CSS  •  JS  •  Lua  •  ReactJS
 
