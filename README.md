@@ -1,6 +1,6 @@
 # Hi, I'm TopMyster
 
-### I'm a Frontend Engineer who also likes design.
+### I'm a Frontend Engineer who likes design.
 
 
 ![TopMyster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topmyster)
