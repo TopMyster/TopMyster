@@ -1,4 +1,4 @@
-# Hi! I'm TopMyster!
+# Hi, I'm TopMyster
 
 ### I am a Frontend Engineer who also likes design.
 
